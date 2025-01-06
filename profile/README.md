@@ -2,5 +2,7 @@
 
 Welcome to our GitHub organization! RaidProtect is a Discord bot focused on moderation and security.
 
+Some of RaidProtect's components are available as open source on [FCA's Github organization](https://github.com/FCAgreatgoals).
+
 You can also join our Discord server:
 [![Chat on Discord](https://img.shields.io/badge/discord-.gg%2Fraidprotect-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/raidprotect)
